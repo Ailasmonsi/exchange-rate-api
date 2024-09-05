@@ -9,7 +9,7 @@
 
 1. Клонируйте репозиторий в вашу локальную среду:
 
-/репа/
+```gir clone https://github.com/Ailasmonsi/exchange-rate-api.git```
 
 2. Перейдите в директорию проекта:
 
